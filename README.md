@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @petukhovaaa
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning methods of NGS-data analisys
+
 
 
 <!---
