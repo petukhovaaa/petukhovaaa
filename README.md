@@ -1,7 +1,2 @@
 <!---
-petukhovaaa/petukhovaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+B.S. + M.S. in Bioengineering and Bioinformatics. Proficiency in cohort and single-sample analysis of NGS data for medical genetics. Have experience with creation and management of Nextflow pipelines for parallel computing on an HPC cluster. Currently working with scATAC-seq and scRNA-seq data.
